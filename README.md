@@ -1,2 +1,2 @@
-# co-prothirteen
-Simple List Sorter JavaScript
+# Simple List Sorter
+Simple List Sorter using JavaScript .sort() method
